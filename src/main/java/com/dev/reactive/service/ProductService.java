@@ -1,7 +1,6 @@
 package com.dev.reactive.service;
 
 import com.dev.reactive.dto.ProductDto;
-import com.dev.reactive.entity.Product;
 import com.dev.reactive.repository.ProductRepository;
 import com.dev.reactive.util.AppUtil;
 import org.springframework.beans.factory.annotation.Autowired;
