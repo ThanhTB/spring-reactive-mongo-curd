@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://admin:<password>@cluster0.equsj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+      uri: mongodb+srv://admin:admin123@cluster0.equsj.mongodb.net/blog?retryWrites=true&w=majority
 
 server:
   port: 9292
