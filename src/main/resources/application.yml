@@ -5,3 +5,11 @@ spring:
 
 server:
   port: 9292
+
+springdoc:
+  api-docs:
+    groups:
+      enabled: true
+    path: /swagger-doc/v3/api-docs
+  swagger-ui:
+    path: /swagger-doc/swagger-ui.html
